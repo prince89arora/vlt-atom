@@ -1,0 +1,18 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Vlt Atom'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'vlt-atom:toggle' }
+      ]
+    ]
+  }
+]
+
+'context-menu':
+  '.tree-view .full-menu': [
+    {'type': 'separator'}
+    {'label': 'Pull From Crx', 'command': 'vlt-atom:pull'}
+    {'label': 'Push To Crx', 'command': 'vlt-atom:push'}
+  ]
