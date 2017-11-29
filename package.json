@@ -7,7 +7,8 @@
   ],
   "activationCommands": {
     "atom-workspace": "vlt-atom:toggle",
-    "atom-workspace": "vlt-atom:pull"
+    "atom-workspace": "vlt-atom:pull",
+    "atom-workspace": "vlt-atom:push"
   },
   "repository": "https://github.com/atom/vlt-atom",
   "license": "MIT",
