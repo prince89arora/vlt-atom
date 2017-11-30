@@ -1,7 +1,7 @@
 {
   "name": "vlt-atom",
   "main": "./lib/vlt-atom",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Package to sync working copy with crx repository",
   "keywords": [
     "AEM",
