@@ -6,9 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "vlt-atom:pull",
-    "atom-workspace": "vlt-atom:push",
-    "atom-workspace": "vlt-atom:settings"
+
   },
   "repository": "https://github.com/prince89arora/vlt-atom",
   "license": "MIT",
