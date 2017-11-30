@@ -6,6 +6,7 @@ Atom Package to sync AEM project working copy with crx repository.
 1. Install Atom.
 2. Install package
 ```shell
+apm install vlt-atom
 ```
 3. Add JAVA_HOME in your environment variables (if not present).
 
