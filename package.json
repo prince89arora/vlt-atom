@@ -1,18 +1,14 @@
 {
   "name": "vlt-atom",
   "main": "./lib/vlt-atom",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Package to sync working copy with crx repository",
-  "keywords": [
-  ],
-  "activationCommands": {
-
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/prince89arora/vlt-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
