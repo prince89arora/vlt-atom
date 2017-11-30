@@ -7,6 +7,7 @@ Atom Package to sync AEM project working copy with crx repository.
 2. Install package
 ```shell
 ```
+3. Add JAVA_HOME in your environment variables (if not present).
 
 ### Settings
 - **AEM server host:** AEM server host or ip address.
