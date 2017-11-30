@@ -1,16 +1,16 @@
 {
   "name": "vlt-atom",
   "main": "./lib/vlt-atom",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Package to sync working copy with crx repository",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "vlt-atom:toggle",
     "atom-workspace": "vlt-atom:pull",
-    "atom-workspace": "vlt-atom:push"
+    "atom-workspace": "vlt-atom:push",
+    "atom-workspace": "vlt-atom:settings"
   },
-  "repository": "https://github.com/atom/vlt-atom",
+  "repository": "https://github.com/prince89arora/vlt-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

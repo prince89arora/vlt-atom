@@ -4,7 +4,7 @@
     'submenu': [
       'label': 'Vlt Atom'
       'submenu': [
-        { 'label': 'Toggle', 'command': 'vlt-atom:toggle' }
+        { 'label': 'Settings', 'command': 'vlt-atom:settings' }
       ]
     ]
   }
