@@ -1,0 +1,5 @@
+1. vlt status to check status for remove or add.
+Loop from out up and check for all status.
+? = added new. (vlt add <path>)
+! = removed. (vlt delete <path>)
+M = modified. (nothing to do)
