@@ -21,3 +21,4 @@ apm install vlt-atom
 ### Usage
 - Add an AEM project in Atom, right click on any directory under your project (jcr_root) and use Pull From Crx option. This will sync your working copy with AEM instance.
 - Once everything is synced, options (Pull From Crx / Push To Crx) can be used to push or pull any file or directory from project panel.
+- Add Under VLT option can be used to add any file or directory under vlt control.
