@@ -27,5 +27,14 @@ apm install vlt-atom
 
 
 ### Important Notes:
-- Update settings.xml file to add files or directories that needs to be ignored by vlt. This file can be found in META_INF/vault directory.
+- Update settings.xml file to add files or directories that needs to be ignored by vlt. This file can be created in META_INF/vault or under <userhome>/.vault directory. Below is an example for setting xml.
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<vault version="1.0">
+   <ignore name=".svn"/>
+   <ignore name=".git"/>
+   <ignore name=".DS_Store"/>
+   <ignore name=".dir"/>
+</vault>
+```
 - Make sure to include jcr_root directory while adding an AEM project. This directory should be present in project panel before you start working.
