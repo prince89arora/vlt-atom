@@ -27,7 +27,7 @@ apm install vlt-atom
 
 
 ### Important Notes:
-- Update settings.xml file to add files or directories that needs to be ignored by vlt. This file can be created in META_INF/vault or under <userhome>/.vault directory. Below is an example for setting xml.
+- Update settings.xml file to add files or directories that needs to be ignored by vlt. This file can be created in META_INF/vault or under userhome/.vault directory. Below is an example for setting xml.
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <vault version="1.0">
